@@ -12,7 +12,7 @@
         <a href="https://github.com/cwordtech"><img title="Author" src="https://img.shields.io/badge/Author-cwordtech-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
-## Password dan Username:heavy_exclamation_mark:
+## :heavy_exclamation_mark: Password dan Username
 ```
 Username = admin
 Password = pass
@@ -49,11 +49,11 @@ Pada baris code dibawah :
 Dengan User name dan Password yang kalian mau.
 </details>
 
-## Requirements 
+## :pencil:Requirements 
 - C++ IDE (Kami rekomend pakai Clion, dari JetBrains)
 - Cmake
 
-## Note
+## :loudspeaker: Note
  Kami akan membuat versi GUInya dalam waktu dekat, dengan SQL sebagai Data Basenya :wink:
 
 ## :speech_balloon: Contact Me
