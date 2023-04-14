@@ -11,8 +11,8 @@ using namespace std;
 using namespace helper;
 
 //function untuk mendelete data karyawan
-void busnieesLogic::deleteDataKaryawan(void) {
-    Karyawan karyawan;
+void busnieesLogic::deleteDataKaryawan( ) {
+    Karyawan karyawan{};
     clear();
     char checkId[5];
     cout<<"\n\nMasukan ID Karayawan: ";

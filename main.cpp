@@ -4,8 +4,6 @@
 #include <iostream>
 #if _WIN32
     #include <Windows.h>
-#include <unordered_map>
-#include <unordered_set>
 
 #elif _WIN64
     #include <Windows.h>
@@ -24,7 +22,7 @@ using namespace views;
 using namespace std;
 
 //function untuk menu program
-void options(void){ //menu
+void options( ){ //menu
     // Options untuk memiliki action
     while(true) {
         helper::clear();
